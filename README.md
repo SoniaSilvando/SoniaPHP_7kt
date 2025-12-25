@@ -1,25 +1,25 @@
 # SoniaPHP_7kt
 
-Sistema web multi-módulo en PHP: panel de administración de chistes, carrito de compras y contador de visitas. Implementa sesiones, cookies, autenticación y MySQL.
+A multi-module PHP web system featuring an admin panel for joke management, a shopping cart, and a visitor counter. Implements sessions, cookies, authentication, and MySQL database integration.
 
-📋 Descripción
+## Description
 
-Proyecto educativo que demuestra conceptos fundamentales de desarrollo web con PHP, incluyendo tres módulos principales:
+This project demonstrates core web development concepts using PHP. It includes three main modules:
 
-- **Admin Panel**: Sistema de gestión de chistes con autenticación de usuarios y control de acceso
-- **Shopping Cart**: Carrito de compras funcional con gestión de sesiones
-- **Cookie Counter**: Contador de visitas usando cookies
+- **Admin Panel**: Joke management system with user authentication and access control
+- **Shopping Cart**: Functional shopping cart with session management
+- **Cookie Counter**: Visit counter using cookies
 
-🚀 Tecnologías
+## Technologies Used
 
-- **Backend**: PHP 7+
-- **Base de datos**: MySQL
-- **Frontend**: HTML5, CSS3
-- **Gestión de estado**: Sessions y Cookies
-- **Servidor**: Laragon (desarrollo local)
+- PHP 7+
+- MySQL
+- HTML5, CSS3
+- Sessions and Cookies
+- PDO for database operations
 
-📦 Instalación
+## Installation
 
-1. **Clonar el repositorio:**
+1. Clone the repository:
 ```bash
 git clone [https://github.com/SoniaSilvando/SoniaPHP_7kt.git](https://github.com/SoniaSilvando/SoniaPHP_7kt.git)
